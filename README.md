@@ -34,4 +34,5 @@ As análises e visualizações foram desenvolvidas durante uma intensa semana de
 ![Gráficos feitos no R.](R.gif)
 ## Apêndice
 
-Para abrir e rodar os gráficos é necessário baixá-los em sua máquina.
+- Para abrir os gráficos é necessário baixá-los em sua máquina.
+- As bases de dados podem estar desatualizadas.

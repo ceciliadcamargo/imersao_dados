@@ -23,7 +23,7 @@ As análises e visualizações foram desenvolvidas durante uma intensa semana de
 - Uso da biblioteca `Pandas Profiling`;
 - Base de dados: [Amazon](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset), [Hotels](https://www.kaggle.com/datasets/andrewgeorgeissac/hotels-in-munnar-kerala)
 
-![Gráficos feitos no Python.](jogo.gif)
+![Gráficos feitos no Python.](python.gif)
 
 ### Software R
 
@@ -31,7 +31,7 @@ As análises e visualizações foram desenvolvidas durante uma intensa semana de
 - Visualização de dados com gráficos através dos pacotes `ggplot2` e `plotly`;
 - Base de dados: [IMDB Movies](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
-![Gráficos feitos no R.](jogo.gif)
+![Gráficos feitos no R.](R.gif)
 ## Apêndice
 
 Para abrir e rodar os gráficos é necessário baixá-los em sua máquina.
